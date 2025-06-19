@@ -1,0 +1,11 @@
+
+body { font-family: 'Georgia', serif; background: #fdfcfb; color: #4a4a4a; margin: 0; padding: 0; }
+header { background: #ffffff; padding: 20px; text-align: center; }
+nav a { margin: 0 15px; text-decoration: none; color: #4a4a4a; font-weight: bold; }
+.hero { padding: 60px 20px; background: #f7e9dc; text-align: center; }
+.hero h1 { color: #c9a66b; }
+.cta { display: inline-block; margin-top: 20px; padding: 12px 24px; background: #c9a66b; color: white; text-decoration: none; border-radius: 5px; }
+.tiers { display: flex; justify-content: center; gap: 20px; padding: 40px 20px; background: #ffffff; }
+.tier { background: #f7e9dc; padding: 20px; border-radius: 10px; font-weight: bold; width: 150px; text-align: center; }
+.testimonials { padding: 40px 20px; background: #fdfcfb; text-align: center; }
+footer { background: #e0dbd1; padding: 20px; text-align: center; font-size: 14px; }
